@@ -1,0 +1,22 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "bitcore-lib": "^8.5.1",
+    "body-parser": "^1.19.0",
+    "expres": "0.0.5",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "ws": "^7.1.1"
+  },
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
